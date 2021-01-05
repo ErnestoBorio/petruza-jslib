@@ -2,6 +2,9 @@
   "name": "petruza-jslib",
   "version": "0.1.0",
   "description": "Collection of functions and classes I come up with just because.",
+  "repository": {
+    "url": "git@github.com:ErnestoBorio/petruza-jslib.git"
+  },
   "type": "module",
   "main": "index.js",
   "scripts": {},
